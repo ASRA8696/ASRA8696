@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASRA8696
 - 👀 I’m pursuing my Master's in Business Analytics with an Applied Machine Learning and Data Science concentration.
-- 🌱 I’m exploring ML algorithms and LangChain development in NLP and text mining analysis.
+- 🌱 I’m exploring ML algorithms and LangChain development in the context of NLP and text mining analysis.
 - 💞️ I want to collaborate on scientific computing & HPC-based projects.
 - 📫 Reach out to me at ashwanth8696@gmail.com
 
